@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### 1.58 - 2019-06-03
+
+##### Additions :tada:
+* Reworked label rendering to use signed distance fields for crisper text. [#7730](https://github.com/AnalyticalGraphicsInc/cesium/pull/7730)
+
 ### 1.57 - 2019-05-01
 
 ##### Additions :tada:
